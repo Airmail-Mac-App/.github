@@ -1,7 +1,7 @@
 # Airmail for Mac – Fast and Powerful Email Client
 
 <div align="center">
-<img src="https://img.softportal.com/76666/original/airmail-icon.png" alt="Airmail Logo" width="256" height="256">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEeYBbyxoDljOflsmNVVebcFRhlf1iNVUVA&s" alt="Airmail Logo" width="256" height="256">
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@ Airmail for Mac is optimized for all Apple devices, running smoothly on MacBook 
 
 Whether you're a professional managing business emails or a power user organizing personal accounts, Airmail delivers speed, reliability, and a superior email experience tailored for the Mac ecosystem.
 
-![Airmail for Mac Screenshot](https://cdn.macupdate.com/mac-ss/40086/166/airmail-ss1.jpg)
+![Airmail Interface](https://www.accuratereviews.com/wp-content/uploads/2016/06/airmail.png)
 
 ---
 
